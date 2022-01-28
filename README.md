@@ -4,6 +4,9 @@
 
 A simple, fast, lightweight, and beautiful FTP client
 
+# I plan to add the chinese language file
+# 我正在为本项目添加中文语言
+
 
 ![MyFTP screenshot](https://luandersonn.com/images/myftp/screenshots/myftp-light.png)
 
